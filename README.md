@@ -5,16 +5,16 @@ This code use Word2Vector to map english words to vector space.
 
 ## Results
                                                           SVD U k=2
-![image1](./images/1.png)
+![image1](./imgs/1.png)
 
                                                           SVD US k=2
-![image2](./images/2.png)
+![image2](./imgs/2.png)
 
                                                         SVD US k=2000
-![image3](./images/3.png)
+![image3](./imgs/3.png)
 
                                                          SVD U k=2000
-![image4](./images/4.png)
+![image4](./imgs/4.png)
 
                                                          TrunSVD k=2
-![image5](./images/5.png)
+![image5](./imgs/5.png)
